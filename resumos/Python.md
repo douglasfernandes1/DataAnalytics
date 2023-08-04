@@ -9,3 +9,12 @@ Python é uma linguagem de programação de alto nível de tipagem dinâmica e f
  - Multiplataforma e paradigma: pode ser utilizadas para diversas aplicações, como POO, RNA, etc.
  - Comunidade muito ativa.
 
+## Como executar um código:
+
+```python
+-i (python -i app.py)
+```
+
+## Função dir
+
+Retorna a lista de nomes do diretório atual.
