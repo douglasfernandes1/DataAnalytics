@@ -175,4 +175,4 @@ Alinhar a subida do EMEJ junto com as entradas a serem pagas pelos membros
 
 Descobrir com a BJ como funcionaria a questão
 
-Perguntar pra Mara sobre a Federação de novas EJs
+Perguntar pra Mara sobre a Federação de novas EJs.
