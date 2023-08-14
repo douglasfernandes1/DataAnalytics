@@ -18,3 +18,14 @@ Python é uma linguagem de programação de alto nível de tipagem dinâmica e f
 ## Função dir
 
 Retorna a lista de nomes do diretório atual.
+
+##  Operadores de Identidade
+
+is
+is not
+
+##  Operadores de associação
+
+in
+not in
+
